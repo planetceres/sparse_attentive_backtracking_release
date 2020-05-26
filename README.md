@@ -8,9 +8,9 @@ Create environment using
     conda env create -f env.yml
 
 Need: 
-- pytorch 0.1.12
-- CUDA 8.0
-- cuDNN 6 
+- pytorch 1.4.0
+- CUDA 10.1
+- cuDNN 7.6
 
 To run experiment, use the following command
 
